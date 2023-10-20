@@ -37,4 +37,11 @@
   - Requisição a API OpenWeather;
   - Manipulação e inserção dos dados dentro do site;
   - Método para converter graus Celsius para Kelvin.
+
+
+## ->Funcionamento
+
+- Página antes da requisição:
+  
+
   
