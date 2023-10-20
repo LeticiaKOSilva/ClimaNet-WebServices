@@ -21,22 +21,22 @@
 
 - Para este projeto foram criados 3 arquivos:
   - climaNet.js;
-  - climaNet.html;
+  - index.html;
   - climaNet.css;
 
-- No arquivo openWeather.html foi feito:
+- No arquivo index.html foi feito:
   - Link da fonte do google utilizada que foi o Roboto;
   - Link do google icons para utilizar os 3 ícones escolhidos, que foram para representar: A velocidade do vento, narcer do sol e pôr do sol;
   - Header que contém o nome do site "ClimaNet" e um campo de busca para que o usuário busque uma cidade específica;
   - Divs que ficaram ocultas até que o usuário precione a tecla Enter ou clique no botão procurar e assim a API openWeather
  encontra e o arquivo climaNet.js manipule e os organize os dados dentro das divs.
 
-- No arquivo openWeather.css foi feito:
+- No arquivo climaNet.css foi feito:
    - A divisão de pixels para computadores, tablets e celulares;
    - Estilização do cabeçalho;
    - Estilização das divs.
 
-- No arquivo openWeather.js foi feito:
+- No arquivo climaNet.js foi feito:
   - Requisição a API OpenWeather;
   - Manipulação e inserção dos dados dentro do site;
   - Método para converter graus Celsius para Kelvin.
