@@ -41,7 +41,10 @@
 
 ## ->Funcionamento
 
-- Página antes da requisição:
-  
+### Página antes da requisição:
+<img src="https://github.com/LeticiaKOSilva/ClimaNet-WebServices/blob/main/Imagens/climaNet.png" width = "900px">
+
+### Página depois da requisição:
+<img src="https://github.com/LeticiaKOSilva/ClimaNet-WebServices/blob/main/Imagens/climaNetResult.png" width = "900px">
 
   
